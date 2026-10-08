@@ -1,16 +1,18 @@
-## Hi there 👋
+# Christian Ransonette
 
-<!--
-**CBRanso/CBRanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst on a lean IT team supporting ~1,300 users. I wear many IT hats but have a primary focus on security.
 
-Here are some ideas to get you started:
+### What I do
+- Run phishing simulation campaigns and user awareness training
+- Manage endpoint protection, patching, and backups
+- Configure VPN and firewall policies
+- Perform device forensics and data recovery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+M.S. Cybersecurity & Information Assurance · CompTIA SecurityX (CASP+) · CySA+ · PenTest+ · Security+ · Network+
+
+### Tools I have experience with
+SentinelOne · NinjaOne · Druva · Azure · Entra ID · Intune · Cato Networks · Cisco Meraki · KnowBe4 · Wazuh
+
+### Currently building
+A Wazuh home lab, documented here as I go.
